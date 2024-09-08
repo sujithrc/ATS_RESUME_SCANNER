@@ -1,0 +1,13 @@
+# Streamlit
+streamlit #==1.20.0  # If 1.24.0 has issues, try a slightly older version
+
+# PyPDF
+pypdf #==3.7.0  # Slightly older version if 3.8.1 has issues
+
+#OpenAI
+openai ==0.28  # If 0.27.0 has issues, use a stable previous version
+
+#google-generativeai
+
+# Dotenv
+python-dotenv
